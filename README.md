@@ -160,3 +160,6 @@ var canceldiv = function(){
 
 }
 
+### 游戏截图
+![](https://github.com/yufengji/squareGame/blob/master/images/QQ%E6%88%AA%E5%9B%BE20180226095037.jpg?raw=true)
+
